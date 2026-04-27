@@ -26,7 +26,7 @@ This project analyzes e-commerce sales data to identify revenue trends, product 
 - Target high-value customers to improve retention and lifetime value
 
 ## Files
-- sql_queries.sql: SQL code used for analysis
+- sql_queries.sql: SQL code used for analysis, Includes aggregation, grouping, and customer-level analysis using SQL
 - dashboard.xlsx: Excel dashboard visualization
 
 ## Dashboard Preview
