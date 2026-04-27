@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis
+# E-commerce Analysis
 
 ## Overview
 This project analyzes e-commerce sales data to identify revenue trends, product performance, and customer purchasing behavior.
