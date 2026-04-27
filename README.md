@@ -12,6 +12,7 @@ This project analyzes e-commerce sales data to identify revenue trends, product 
 - Top-performing products
 - Category performance
 - Customer purchasing behavior
+- Customer segmentation based on purchasing behavior
 
 ## Key Insights
 - A small number of products contribute the majority of revenue
