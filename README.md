@@ -19,6 +19,12 @@ This project analyzes e-commerce sales data to identify revenue trends, product 
 - Sales show seasonal patterns across months
 - High-value customers generate a large portion of total revenue
 
+## Business Implications
+
+- Focus on top-performing products to maximize revenue
+- Adjust inventory planning based on seasonal demand trends
+- Target high-value customers to improve retention and lifetime value
+
 ## Files
 - sql_queries.sql: SQL code used for analysis
 - dashboard.xlsx: Excel dashboard visualization
